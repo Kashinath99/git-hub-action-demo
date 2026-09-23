@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runner's shell
       - name: Run a one-line script
-        run: echo Hello, world!
+        run: echo Learaning the github actions!
 
       # Runs a multi-line script
       - name: Run a multi-line script
